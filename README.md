@@ -24,7 +24,7 @@
 
 <p align="left">
     <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/135685149-4700fd33-09db-466a-a3b2-396397c83562.png" alt="xCode" width="40" height="40"/> </a>
-  <a href="https://godotengine.org" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/135688140-62692295-5582-47b7-ab1e-11ed1a9686d3.png" alt="Godot" width="40" height="40"/> </a>
+  <a href="https://godotengine.org" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/136405393-372091e9-b3c5-4f6c-be37-f01b3dbc8a89.png" alt="Godot" width="40" height="40"/> </a>
   <a href="https://ru.wikipedia.org/wiki/Objective-C" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/135686272-dc4ca0bd-73d2-4d84-90bf-a32a8412e79a.png" alt="Objective-C" width="40" height="40"/> </a>
   <a href="https://isocpp.org" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/135687743-a9473e5c-85d0-4b91-ba3a-1c7db13fff6e.png" alt="cpp" width="36" height="40"/> </a>
   <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/135686626-fd2e87f4-a048-4d81-ba98-762671fea766.png" alt="Swift" width="40" height="40"/> </a>
@@ -32,4 +32,11 @@
   <a href="https://cocoapods.org" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/135689067-fa658a92-df99-4315-88ae-dd8b440dcd31.png" alt="CocoaPods" width="40" height="40"/> </a>
   <a href="https://firebase.google.com" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/135689254-a31c210e-47cc-4ae4-9ec4-a988ac96aecf.png" alt="Firebase" width="29" height="40"/> </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/135688392-c3a9af0a-8429-4b25-9c55-3c816cbd16c7.png" alt="Photoshop" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">⭐️ My apps and games:</h3>
+
+<p align="left">
+  <a href="https://apps.apple.com/us/app/food-frenzy-puzzle/id1545948097" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/136404082-8b1fb1de-5ba7-4f73-a86a-455bc3d38500.png" alt="FoodFrenzy" width="100" height="100"/> </a>
+  <a href="https://play.google.com/store/apps/details?id=com.wildpluto.foodfrenzy" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/136404088-ee2f972c-d413-46c4-a22e-1d9fd964e2c2.png" alt="FoodFrenzy" width="100" height="100"/> </a>
 </p>
