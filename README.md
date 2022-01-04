@@ -23,10 +23,9 @@
 <h3 align="left">🎯 Languages and Tools:</h3>
 
 <p align="left">
-    <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/135685149-4700fd33-09db-466a-a3b2-396397c83562.png" alt="xCode" width="40" height="40"/> </a>
+   <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/135685149-4700fd33-09db-466a-a3b2-396397c83562.png" alt="xCode" width="40" height="40"/> </a>
   <a href="https://godotengine.org" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/136405393-372091e9-b3c5-4f6c-be37-f01b3dbc8a89.png" alt="Godot" width="40" height="40"/> </a>
   <a href="https://ru.wikipedia.org/wiki/Objective-C" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/135686272-dc4ca0bd-73d2-4d84-90bf-a32a8412e79a.png" alt="Objective-C" width="40" height="40"/> </a>
-  <a href="https://isocpp.org" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/135687743-a9473e5c-85d0-4b91-ba3a-1c7db13fff6e.png" alt="cpp" width="36" height="40"/> </a>
   <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/135686626-fd2e87f4-a048-4d81-ba98-762671fea766.png" alt="Swift" width="40" height="40"/> </a>
   <a href="https://git-scm.com" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/135688703-f42ff27a-d6c5-45e9-8283-278f79e8eac5.png" alt="Git" width="40" height="40"/> </a>
   <a href="https://cocoapods.org" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/135689067-fa658a92-df99-4315-88ae-dd8b440dcd31.png" alt="CocoaPods" width="40" height="40"/> </a>
