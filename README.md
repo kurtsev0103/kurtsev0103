@@ -8,7 +8,8 @@
 - 😵‍💫 I'm obsessed with writing code ✍🏻
 - 👨🏻‍🎓 I am constantly learning new things 💡
 - 🏆 My greatest achievement is my wonderful daughter 👧🏻
-- ✉️ My email: kurtsev0103@gmail.com
+- ✉️ My email: kurtsev0103@gmail.com![image](https://user-images.githubusercontent.com/27446881/157450287-09b264ae-3fe7-4a04-8ea6-65ad68370ed1.png)
+
 
 <h3 align="left">🔗 Connect with me:</h3>
 
@@ -36,6 +37,9 @@
 <h3 align="left">⭐️ My apps and games:</h3>
 
 <p align="left">
+  <a href="https://apps.apple.com/us/app/єтривога/id1611921749" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/157449220-0e7fa118-2a32-4f07-80a1-fe47a863e963.png" alt="eTryvoga" width="100" height="100"/> </a>
+   <a href="https://play.google.com/store/apps/details?id=com.wildpluto.ualert" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/157449286-7ab21da9-a785-431b-a0d4-bbca7fc12dde.png" alt="eTryvoga" width="100" height="100"/> </a>
   <a href="https://apps.apple.com/us/app/food-frenzy-puzzle/id1545948097" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/136404082-8b1fb1de-5ba7-4f73-a86a-455bc3d38500.png" alt="FoodFrenzy" width="100" height="100"/> </a>
   <a href="https://play.google.com/store/apps/details?id=com.wildpluto.foodfrenzy" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/136404088-ee2f972c-d413-46c4-a22e-1d9fd964e2c2.png" alt="FoodFrenzy" width="100" height="100"/> </a>
 </p>
+
