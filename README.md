@@ -8,8 +8,7 @@
 - 😵‍💫 I'm obsessed with writing code ✍🏻
 - 👨🏻‍🎓 I am constantly learning new things 💡
 - 🏆 My greatest achievement is my wonderful daughter 👧🏻
-- ✉️ My email: kurtsev0103@gmail.com![image](https://user-images.githubusercontent.com/27446881/157450287-09b264ae-3fe7-4a04-8ea6-65ad68370ed1.png)
-
+- ✉️ My email: kurtsev0103@gmail.com
 
 <h3 align="left">🔗 Connect with me:</h3>
 
