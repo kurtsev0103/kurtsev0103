@@ -33,12 +33,10 @@
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/135688392-c3a9af0a-8429-4b25-9c55-3c816cbd16c7.png" alt="Photoshop" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">⭐️ My apps and games:</h3>
+<h3 align="left">⭐️ My Apps & Games:</h3>
 
 <p align="left">
-  <a href="https://apps.apple.com/us/app/єтривога/id1611921749" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/157449220-0e7fa118-2a32-4f07-80a1-fe47a863e963.png" alt="eTryvoga" width="100" height="100"/> </a>
-   <a href="https://play.google.com/store/apps/details?id=com.wildpluto.ualert" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/157449286-7ab21da9-a785-431b-a0d4-bbca7fc12dde.png" alt="eTryvoga" width="100" height="100"/> </a>
-  <a href="https://apps.apple.com/us/app/food-frenzy-puzzle/id1545948097" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/136404082-8b1fb1de-5ba7-4f73-a86a-455bc3d38500.png" alt="FoodFrenzy" width="100" height="100"/> </a>
-  <a href="https://play.google.com/store/apps/details?id=com.wildpluto.foodfrenzy" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/136404088-ee2f972c-d413-46c4-a22e-1d9fd964e2c2.png" alt="FoodFrenzy" width="100" height="100"/> </a>
+  <a href="https://apps.apple.com/app/ераунд/id1619303740" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/168250698-b1724a89-145c-456e-96f4-2528cd535f82.png" alt="eRound" width="100" height="100"/> </a>
+  <a href="https://apps.apple.com/us/app/єтривога/id1611921749" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/168251691-11d233c0-3873-471d-805f-a14f41acb763.png" alt="eTryvoga" width="100" height="100"/> </a>
+  <a href="https://apps.apple.com/us/app/food-frenzy-puzzle/id1545948097" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/168251805-df590b7b-d3d2-45d2-a240-b8557858364f.png" alt="FoodFrenzy" width="100" height="100"/> </a>
 </p>
-
