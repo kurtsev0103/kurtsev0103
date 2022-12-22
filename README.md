@@ -36,7 +36,8 @@
 <h3 align="left">⭐️ My Apps & Games:</h3>
 
 <p align="left">
-  <a href="https://apps.apple.com/app/ераунд/id1619303740" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/168250698-b1724a89-145c-456e-96f4-2528cd535f82.png" alt="eRound" width="100" height="100"/> </a>
-  <a href="https://apps.apple.com/us/app/єтривога/id1611921749" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/168251691-11d233c0-3873-471d-805f-a14f41acb763.png" alt="eTryvoga" width="100" height="100"/> </a>
-  <a href="https://apps.apple.com/us/app/food-frenzy-puzzle/id1545948097" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/168251805-df590b7b-d3d2-45d2-a240-b8557858364f.png" alt="FoodFrenzy" width="100" height="100"/> </a>
+  <a href="https://apps.apple.com/app/id1619303740" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/168250698-b1724a89-145c-456e-96f4-2528cd535f82.png" alt="eRound" width="100" height="100"/> </a>
+  <a href="https://apps.apple.com/app/id1611921749" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/168251691-11d233c0-3873-471d-805f-a14f41acb763.png" alt="eTryvoga" width="100" height="100"/> </a>
+  <a href="https://apps.apple.com/app/id1643506031" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/209162303-6a3fd61b-ca14-4bb0-8052-5dd16dcf9a48.png" alt="Locafi" width="100" height="100"/> </a>
+  <a href="https://apps.apple.com/app/id1545948097" target="_blank"> <img src="https://user-images.githubusercontent.com/27446881/168251805-df590b7b-d3d2-45d2-a240-b8557858364f.png" alt="FoodFrenzy" width="100" height="100"/> </a>
 </p>
