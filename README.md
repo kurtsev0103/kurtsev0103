@@ -2,7 +2,6 @@
 
 <h3 align="left">👨🏻‍💻 I'm a Mobile Developer</h3>
 
-- 👨🏻‍💻 I'm a iOS Developer
 - 🌍 I was born in Ukraine 🇺🇦, but currently live and work in Poland 🇵🇱
 - 🎲 My hobby is radio electronics 🔋
 - 😵‍💫 I'm obsessed with writing code ✍🏻
